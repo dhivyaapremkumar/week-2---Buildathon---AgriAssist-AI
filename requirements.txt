@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langsmith
+openai
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+requests
+lxml
+python-dotenv
+reportlab
+pandas
+pypdf
