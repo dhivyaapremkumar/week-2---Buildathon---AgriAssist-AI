@@ -101,6 +101,10 @@ Tamil Nadu Government Website
 
 ![Tamil Chat](assets/Tamil_chat.png)
 
+## 🌐 English Language Support
+
+![English Chat](assets/english_chat.png)
+
 
 # Project Structure
 
@@ -286,6 +290,29 @@ Question:
 📍 **சமீபத்திய தகவல்களை அருகிலுள்ள வேளாண்மை விரிவாக்க அலுவலகத்தில் சரிபார்க்கவும்.**
 
 ---
+## 🌐 Multilingual Support
+
+### English
+
+**Query**
+
+> I am a small farmer looking for seed subsidy.
+
+**Response**
+
+![English Chat](assets/english_chat.png)
+
+---
+
+### Tamil
+
+**Query**
+
+> நான் ஒரு சிறு விவசாயி. விதை மானியம் வேண்டும்.
+
+**Response**
+
+![Tamil Chat](assets/tamil_chat.png)
 
 ## Prompt Design Highlights
 
