@@ -18,7 +18,7 @@ The application retrieves relevant government scheme information using a hybrid 
 
 * 🌾 Tamil Nadu Government Agriculture Scheme Explorer
 * 🤖 AI-powered conversational assistant
-* 🔍 Hybrid Retrieval (Keyword Search + FAISS Vector Search)
+* 🔍 Semantic Vector Retrieval
 * 📚 LangChain-based RAG Pipeline
 * 🧠 OpenAI GPT Integration
 * 📄 PDF download for scheme details
