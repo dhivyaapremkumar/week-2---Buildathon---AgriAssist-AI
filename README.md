@@ -10,7 +10,7 @@ Instead of manually searching government websites, users can ask questions such 
 * How can I apply for farmer training?
 * Who is eligible for Gypsum subsidy?
 
-The application retrieves relevant government scheme information using a hybrid retrieval pipeline and generates accurate, context-aware answers using OpenAI GPT.
+The application retrieves relevant government scheme information using a Semantic Vector Retrieval pipeline and generates accurate, context-aware answers using OpenAI GPT.
 
 ---
 
@@ -221,18 +221,6 @@ The generated index is excluded from Git using `.gitignore`.
 9. Display results in Streamlit.
 10. Included chatbot interaction in both english and tamil
 ---
-## Tamil Language Support
-
-Example Query:
-
-நெல் விதை மானியம் கிடைக்குமா?
-
-Output:
-
-- திட்டத்தின் பெயர்
-- தகுதி
-- நன்மைகள்
-- விண்ணப்பிக்கும் முறை
 # 🌐 Prompt Engineering & Multilingual Support
 
 ## System Prompt
