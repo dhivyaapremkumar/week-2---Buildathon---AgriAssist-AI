@@ -192,6 +192,17 @@ streamlit run app.py
 ```
 
 ---
+## Generate Vector Database
+
+After cloning:
+
+python vectorstore/create_vectorstore.py
+
+This creates:
+
+db/faiss_index/
+
+The generated index is excluded from Git using `.gitignore`.
 
 # Workflow
 
@@ -206,6 +217,18 @@ streamlit run app.py
 9. Display results in Streamlit.
 10. Included chatbot interaction in both english and tamil
 ---
+## Tamil Language Support
+
+Example Query:
+
+நெல் விதை மானியம் கிடைக்குமா?
+
+Output:
+
+- திட்டத்தின் பெயர்
+- தகுதி
+- நன்மைகள்
+- விண்ணப்பிக்கும் முறை
 
 # Future Enhancements
 
