@@ -89,7 +89,6 @@ TN_Agriculture_AI/
 ├── llm/
 ├── ui/
 ├── db/
-└── assets/
 ```
 
 ---
@@ -176,13 +175,12 @@ streamlit run app.py
 7. Retrieve relevant schemes using Hybrid Retrieval.
 8. Generate AI response using GPT.
 9. Display results in Streamlit.
-
+10. Included chatbot interaction in both english and tamil
 ---
 
 # Future Enhancements
 
 * Voice-based interaction
-* Multi-language support (Tamil & English)
 * Farmer login and saved history
 * Scheme recommendation engine
 * OCR support for uploaded documents
