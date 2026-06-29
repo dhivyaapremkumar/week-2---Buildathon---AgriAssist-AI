@@ -72,6 +72,35 @@ Tamil Nadu Government Website
 | PDF Generation  | ReportLab                |
 
 ---
+## 🏠 Home Screen
+
+<img src="assets/home.png" width="900">
+
+---
+
+## 💬 AI Chatbot
+
+<img src="assets/chatbot.png" width="900">
+
+---
+
+## 🌐 Tamil Language Support
+
+<img src="assets/Tamil_chat.png" width="900">
+
+
+## 🏠 Home Screen
+
+![Home Screen](assets/home.png)
+
+## 💬 AI Chatbot
+
+![Chatbot](assets/chatbot.png)
+
+## 🌐 Tamil Language Support
+
+![Tamil Chat](assets/Tamil_chat.png)
+
 
 # Project Structure
 
