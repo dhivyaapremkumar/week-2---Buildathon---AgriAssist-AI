@@ -229,6 +229,73 @@ Output:
 - தகுதி
 - நன்மைகள்
 - விண்ணப்பிக்கும் முறை
+# 🌐 Prompt Engineering & Multilingual Support
+
+## System Prompt
+
+AgriAssist AI uses a structured prompt that personalizes responses based on:
+
+* Preferred Language
+* Farmer Category
+* District
+* Farmer Intent
+* Farmer Question
+* Retrieved Tamil Nadu Government Scheme Context
+
+The assistant is instructed to:
+
+* Answer **only** using the retrieved government scheme information.
+* Reply in the **same language** as the farmer (English or Tamil).
+* Recommend the **most relevant** scheme(s).
+* Never invent scheme names, benefits, eligibility, or application procedures.
+* Clearly state when no matching scheme exists.
+
+---
+
+## Example – Tamil Query
+
+**Input**
+
+```
+Farmer Category:
+சிறு விவசாயி
+
+District:
+சேலம்
+
+Question:
+எனக்கு விதை மானியம் கிடைக்குமா?
+```
+
+**Output**
+
+🌾 **திட்டத்தின் பெயர்:** Certified Seed Distribution Programme
+
+👨‍🌾 **தகுதியானவர்கள்:** சிறு மற்றும் குறைந்த நிலம் கொண்ட விவசாயிகள்
+
+💰 **நன்மைகள்:** அரசு மானிய விலையில் தரமான விதைகள் வழங்கப்படும்.
+
+📋 **தகுதி:** தகுதியான விவசாயிகள் தங்களது மாவட்ட வேளாண்மை அலுவலகத்தில் விண்ணப்பிக்கலாம்.
+
+📝 **விண்ணப்பிக்கும் முறை:** அருகிலுள்ள வேளாண்மை விரிவாக்க அலுவலகம் அல்லது வேளாண்மை உதவி இயக்குநர் அலுவலகத்தில் விண்ணப்பிக்கலாம்.
+
+🏛 **துறை:** Agriculture – Farmers Welfare Department
+
+🔗 **அதிகாரப்பூர்வ இணையதளம்:** https://www.tn.gov.in/
+
+📍 **சமீபத்திய தகவல்களை அருகிலுள்ள வேளாண்மை விரிவாக்க அலுவலகத்தில் சரிபார்க்கவும்.**
+
+---
+
+## Prompt Design Highlights
+
+* Context-aware Retrieval-Augmented Generation (RAG)
+* Multilingual (English & Tamil)
+* Farmer-profile personalization
+* District-aware recommendations
+* Hallucination prevention using retrieved context only
+* Structured response formatting for better readability
+
 
 # Future Enhancements
 
