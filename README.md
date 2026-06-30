@@ -56,13 +56,27 @@ Tamil Nadu Government Website
 ```
 
 ---
+# RAG workflow
+
+Farmer Question
+       │
+       ▼
+FAISS Retriever
+       │
+Retrieved Schemes
+       │
+Prompt Template
+       │
+OpenAI GPT
+       │
+Final Answer
 
 # Technology Stack
 
 | Layer           | Technology               |
 | --------------- | ------------------------ |
 | Frontend        | Streamlit                |
-| Backend         | Python 3.14              |
+| Backend         | Python 3.11+             |
 | LLM             | OpenAI GPT               |
 | Framework       | LangChain                |
 | Embeddings      | text-embedding-3-small   |
@@ -88,22 +102,10 @@ Tamil Nadu Government Website
 
 <img src="assets/Tamil_chat.png" width="900">
 
-
-## 🏠 Home Screen
-
-![Home Screen](assets/home.png)
-
-## 💬 AI Chatbot
-
-![Chatbot](assets/chatbot.png)
-
-## 🌐 Tamil Language Support
-
-![Tamil Chat](assets/Tamil_chat.png)
-
 ## 🌐 English Language Support
 
-![English Chat](assets/english_chat.png)
+<img src="assets/english_chat.png" width="900">
+
 
 
 # Project Structure
@@ -181,14 +183,6 @@ LANGCHAIN_PROJECT=AgriAssist_AI
 
 ---
 
-## Build Vector Database
-
-```bash
-python vectorstore/create_vectorstore.py
-```
-
----
-
 ## Run Application
 
 ```bash
@@ -208,6 +202,9 @@ db/faiss_index/
 
 The generated index is excluded from Git using `.gitignore`.
 
+> **Note:** The FAISS vector index is generated locally and is intentionally excluded from the repository using `.gitignore`.
+
+
 # Workflow
 
 1. Scrape Tamil Nadu Government Agriculture schemes.
@@ -216,31 +213,36 @@ The generated index is excluded from Git using `.gitignore`.
 4. Store as JSON.
 5. Generate embeddings using OpenAI.
 6. Store vectors in FAISS.
-7. Retrieve relevant schemes using Hybrid Retrieval.
+7. 7. Retrieve relevant schemes using FAISS Vector Retrieval.
 8. Generate AI response using GPT.
 9. Display results in Streamlit.
-10. Included chatbot interaction in both english and tamil
+10. Generate multilingual responses (English & Tamil) based on the user's preferred language.
 ---
 # 🌐 Prompt Engineering & Multilingual Support
 
-## System Prompt
+## prompt engineering
 
-AgriAssist AI uses a structured prompt that personalizes responses based on:
+AgriAssist AI uses a structured prompt designed specifically for Tamil Nadu farmers.
 
-* Preferred Language
-* Farmer Category
-* District
-* Farmer Intent
-* Farmer Question
-* Retrieved Tamil Nadu Government Scheme Context
+Prompt Inputs
 
-The assistant is instructed to:
+Preferred Language
+Farmer Category
+District
+Farmer Intent
+Farmer Question
+Retrieved Government Scheme Context
 
-* Answer **only** using the retrieved government scheme information.
-* Reply in the **same language** as the farmer (English or Tamil).
-* Recommend the **most relevant** scheme(s).
-* Never invent scheme names, benefits, eligibility, or application procedures.
-* Clearly state when no matching scheme exists.
+Prompt Rules
+
+Reply in English or Tamil based on the user's language.
+Recommend only schemes from the retrieved government context.
+Never hallucinate scheme names or benefits.
+Rank multiple matching schemes by relevance.
+Personalize recommendations using farmer category and district.
+End every response with an official verification note.
+
+The complete implementation is available in llm/prompts.py.
 
 ---
 
