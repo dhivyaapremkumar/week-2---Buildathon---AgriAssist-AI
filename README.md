@@ -18,7 +18,7 @@ The application retrieves relevant government scheme information using a hybrid 
 
 * 🌾 Tamil Nadu Government Agriculture Scheme Explorer
 * 🤖 AI-powered conversational assistant
-* 🔍 Hybrid Retrieval (Keyword Search + FAISS Vector Search)
+* 🔍 Semantic search retrieval with FAISS
 * 📚 LangChain-based RAG Pipeline
 * 🧠 OpenAI GPT Integration
 * 📄 PDF download for scheme details
@@ -173,7 +173,7 @@ streamlit run app.py
 4. Store as JSON.
 5. Generate embeddings using OpenAI.
 6. Store vectors in FAISS.
-7. Retrieve relevant schemes using Hybrid Retrieval.
+7. Retrieve relevant schemes using Semantic search retrieval with FAISS.
 8. Generate AI response using GPT.
 9. Display results in Streamlit.
 
