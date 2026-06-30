@@ -3,10 +3,15 @@
 venv/
 .env
 
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+
+# OS generated files
+.DS_Store
+Thumbs.db
 
 # FAISS
 db/faiss_index/
