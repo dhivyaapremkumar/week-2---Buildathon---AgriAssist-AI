@@ -1,0 +1,1330 @@
+{
+    "nodes": [
+        {
+            "id": "Agriculture - Farmers Welfare Department",
+            "label": "Department"
+        },
+        {
+            "id": "Distribution of Certified  Seeds of maize",
+            "label": "Scheme"
+        },
+        {
+            "id": "Distribution of Certified seeds - Oil Seeds",
+            "label": "Scheme"
+        },
+        {
+            "id": "Distribution of Gypsum",
+            "label": "Scheme"
+        },
+        {
+            "id": "Distribution of Gypsum - Oil Seeds",
+            "label": "Scheme"
+        },
+        {
+            "id": "Distribution of Minikits  at free of cost",
+            "label": "Scheme"
+        },
+        {
+            "id": "Distribution of Nuclear Poly Hedrosis Virus",
+            "label": "Scheme"
+        },
+        {
+            "id": "Distribution of Rhizobium",
+            "label": "Scheme"
+        },
+        {
+            "id": "Distribution of Rhizobium Packets - Oilseeds",
+            "label": "Scheme"
+        },
+        {
+            "id": "Distribution of Soil  Health card",
+            "label": "Scheme"
+        },
+        {
+            "id": "Distribution of manually operated Plant Protection Equipment",
+            "label": "Scheme"
+        },
+        {
+            "id": "Farm Production System and micro enterprises - Sponsored By State Govt",
+            "label": "Scheme"
+        },
+        {
+            "id": "Farmers",
+            "label": "Beneficiary"
+        },
+        {
+            "id": "Farmers Interest Group  (FIG)",
+            "label": "Scheme"
+        },
+        {
+            "id": "Farmers Training",
+            "label": "Scheme"
+        },
+        {
+            "id": "Generator subsidy",
+            "label": "Scheme"
+        },
+        {
+            "id": "Grants",
+            "label": "Benefit"
+        },
+        {
+            "id": "Incentives",
+            "label": "Benefit"
+        },
+        {
+            "id": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+            "label": "Scheme"
+        },
+        {
+            "id": "Integrated Pest  Management Demonstration  cum Training",
+            "label": "Scheme"
+        },
+        {
+            "id": "Livelihood activities for asset less persons - Sponsored By State Govt",
+            "label": "Scheme"
+        },
+        {
+            "id": "Livelihood activities for asset less persons-2012",
+            "label": "Scheme"
+        },
+        {
+            "id": "Low Tension power tariff subsidy",
+            "label": "Scheme"
+        },
+        {
+            "id": "Manufacturers",
+            "label": "Beneficiary"
+        },
+        {
+            "id": "Micro Nutrient spray",
+            "label": "Scheme"
+        },
+        {
+            "id": "Organizing Block  Demonstration through  Department and also  through TNAU",
+            "label": "Scheme"
+        },
+        {
+            "id": "Organizing Block Demonstration",
+            "label": "Scheme"
+        },
+        {
+            "id": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+            "label": "Scheme"
+        },
+        {
+            "id": "Pipes carrying water  from source to field",
+            "label": "Scheme"
+        },
+        {
+            "id": "Pipes carrying water from source to field - Pulses ISPOM",
+            "label": "Scheme"
+        },
+        {
+            "id": "Price Preference for Micro and Small Enterprises in Government purchases",
+            "label": "Scheme"
+        },
+        {
+            "id": "Production of Certified  Seeds of Maize",
+            "label": "Scheme"
+        },
+        {
+            "id": "Production of Certified Seeds",
+            "label": "Scheme"
+        },
+        {
+            "id": "Production of Foundation Seeds",
+            "label": "Scheme"
+        },
+        {
+            "id": "Production of Foundation and Certified Seeds",
+            "label": "Scheme"
+        },
+        {
+            "id": "Quality Paddy seed Distribution",
+            "label": "Scheme"
+        },
+        {
+            "id": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+            "label": "Scheme"
+        },
+        {
+            "id": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+            "label": "Scheme"
+        },
+        {
+            "id": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+            "label": "Scheme"
+        },
+        {
+            "id": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+            "label": "Scheme"
+        },
+        {
+            "id": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+            "label": "Scheme"
+        },
+        {
+            "id": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+            "label": "Scheme"
+        },
+        {
+            "id": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+            "label": "Scheme"
+        },
+        {
+            "id": "Special capital subsidy for thrust sector enterprises",
+            "label": "Scheme"
+        },
+        {
+            "id": "Stamp duty exemption on mortgaged and pledged documents",
+            "label": "Scheme"
+        },
+        {
+            "id": "State",
+            "label": "Sponsor"
+        },
+        {
+            "id": "Subsidy",
+            "label": "Benefit"
+        },
+        {
+            "id": "Subsidy on the assessed Value Added Tax (VAT)",
+            "label": "Scheme"
+        },
+        {
+            "id": "Subsidy on the cost of Patent Registration in India or abroad",
+            "label": "Scheme"
+        },
+        {
+            "id": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+            "label": "Scheme"
+        },
+        {
+            "id": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+            "label": "Scheme"
+        },
+        {
+            "id": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+            "label": "Scheme"
+        },
+        {
+            "id": "Term loan obtained for Technology upgradation / modernisation schemes",
+            "label": "Scheme"
+        },
+        {
+            "id": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+            "label": "Scheme"
+        },
+        {
+            "id": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+            "label": "Scheme"
+        },
+        {
+            "id": "Training of Farmers on Pulses Production Technologies",
+            "label": "Scheme"
+        },
+        {
+            "id": "Training to Farmers",
+            "label": "Scheme"
+        },
+        {
+            "id": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+            "label": "Scheme"
+        },
+        {
+            "id": "Unemployed Youth Employment Generation Programme (UYEGP)",
+            "label": "Scheme"
+        },
+        {
+            "id": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+            "label": "Scheme"
+        },
+        {
+            "id": "Waiver of Earnest Money Deposit for participation in Tenders",
+            "label": "Scheme"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "Training to Farmers",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Training to Farmers",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Training to Farmers",
+            "target": "Grants",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Training to Farmers",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Production of Foundation and Certified Seeds",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Production of Foundation and Certified Seeds",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Production of Foundation and Certified Seeds",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Production of Foundation and Certified Seeds",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Distribution of Nuclear Poly Hedrosis Virus",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Distribution of Nuclear Poly Hedrosis Virus",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Distribution of Nuclear Poly Hedrosis Virus",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Distribution of Nuclear Poly Hedrosis Virus",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Distribution of Rhizobium Packets - Oilseeds",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Distribution of Rhizobium Packets - Oilseeds",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Distribution of Rhizobium Packets - Oilseeds",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Distribution of Rhizobium Packets - Oilseeds",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Livelihood activities for asset less persons-2012",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Livelihood activities for asset less persons-2012",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Livelihood activities for asset less persons-2012",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Livelihood activities for asset less persons-2012",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+            "target": "Incentives",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Infrastructure subsidy for Privately Developed Industrial Estates.",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Production of Foundation Seeds",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Production of Foundation Seeds",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Production of Foundation Seeds",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Production of Foundation Seeds",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Distribution of Gypsum",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Distribution of Gypsum",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Distribution of Gypsum",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Distribution of Gypsum",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Distribution of manually operated Plant Protection Equipment",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Distribution of manually operated Plant Protection Equipment",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Distribution of manually operated Plant Protection Equipment",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Distribution of manually operated Plant Protection Equipment",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Pipes carrying water from source to field - Pulses ISPOM",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Pipes carrying water from source to field - Pulses ISPOM",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Pipes carrying water from source to field - Pulses ISPOM",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Pipes carrying water from source to field - Pulses ISPOM",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small & Medium Manufacturing Sector.",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Distribution of Rhizobium",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Distribution of Rhizobium",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Distribution of Rhizobium",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Distribution of Rhizobium",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Distribution of Soil  Health card",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Distribution of Soil  Health card",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Distribution of Soil  Health card",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Distribution of Soil  Health card",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+            "target": "Incentives",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Rebate/ Reimbursement of Stamp duty & Registration charges for Micro and Small Enterprises",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Training of Farmers on Pulses Production Technologies",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Training of Farmers on Pulses Production Technologies",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Training of Farmers on Pulses Production Technologies",
+            "target": "Grants",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Training of Farmers on Pulses Production Technologies",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Subsidy on the assessed Value Added Tax (VAT)",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Subsidy on the assessed Value Added Tax (VAT)",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Subsidy on the assessed Value Added Tax (VAT)",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Subsidy on the assessed Value Added Tax (VAT)",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Distribution of Certified seeds - Oil Seeds",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Distribution of Certified seeds - Oil Seeds",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Distribution of Certified seeds - Oil Seeds",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Distribution of Certified seeds - Oil Seeds",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+            "target": "Incentives",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Quality Paddy seed Distribution",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Quality Paddy seed Distribution",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Quality Paddy seed Distribution",
+            "target": "Incentives",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Quality Paddy seed Distribution",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+            "target": "Incentives",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Organizing Block  Demonstration through  Department and also  through TNAU",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Organizing Block  Demonstration through  Department and also  through TNAU",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Organizing Block  Demonstration through  Department and also  through TNAU",
+            "target": "Grants",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Organizing Block  Demonstration through  Department and also  through TNAU",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Generator subsidy",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Generator subsidy",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Generator subsidy",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Generator subsidy",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Production of Certified Seeds",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Production of Certified Seeds",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Production of Certified Seeds",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Production of Certified Seeds",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+            "target": "Grants",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Organizing Block demonstration on Polythene mulch Technology in Groundnut",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Special capital subsidy for thrust sector enterprises",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Special capital subsidy for thrust sector enterprises",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Special capital subsidy for thrust sector enterprises",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Special capital subsidy for thrust sector enterprises",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Distribution of Minikits  at free of cost",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Distribution of Minikits  at free of cost",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Distribution of Minikits  at free of cost",
+            "target": "Grants",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Distribution of Minikits  at free of cost",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+            "target": "Incentives",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Unemployed Youth Employment Generation Programme (UYEGP)",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Unemployed Youth Employment Generation Programme (UYEGP)",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Unemployed Youth Employment Generation Programme (UYEGP)",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Unemployed Youth Employment Generation Programme (UYEGP)",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Price Preference for Micro and Small Enterprises in Government purchases",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Price Preference for Micro and Small Enterprises in Government purchases",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Price Preference for Micro and Small Enterprises in Government purchases",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Price Preference for Micro and Small Enterprises in Government purchases",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Farmers Training",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Farmers Training",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Farmers Training",
+            "target": "Grants",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Farmers Training",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Farm Production System and micro enterprises - Sponsored By State Govt",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Farm Production System and micro enterprises - Sponsored By State Govt",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Farm Production System and micro enterprises - Sponsored By State Govt",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Farm Production System and micro enterprises - Sponsored By State Govt",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Waiver of Earnest Money Deposit for participation in Tenders",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Waiver of Earnest Money Deposit for participation in Tenders",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Waiver of Earnest Money Deposit for participation in Tenders",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Waiver of Earnest Money Deposit for participation in Tenders",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Distribution of Certified  Seeds of maize",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Distribution of Certified  Seeds of maize",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Distribution of Certified  Seeds of maize",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Distribution of Certified  Seeds of maize",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Subsidy on the cost of Patent Registration in India or abroad",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Subsidy on the cost of Patent Registration in India or abroad",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Subsidy on the cost of Patent Registration in India or abroad",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Subsidy on the cost of Patent Registration in India or abroad",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Organizing Block Demonstration",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Organizing Block Demonstration",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Organizing Block Demonstration",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Organizing Block Demonstration",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+            "target": "Incentives",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Reservation for Micro Enterprises in TANSIDCO Industrial Estates",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Reimbursement of hall rent for conducting exhibition by MSME Association",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+            "target": "Incentives",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Low Tension power tariff subsidy",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Low Tension power tariff subsidy",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Low Tension power tariff subsidy",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Low Tension power tariff subsidy",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Subsidy on the cost of Trade Mark Registration in India or abroad",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Farmers Interest Group  (FIG)",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Farmers Interest Group  (FIG)",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Farmers Interest Group  (FIG)",
+            "target": "Grants",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Farmers Interest Group  (FIG)",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Pipes carrying water  from source to field",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Pipes carrying water  from source to field",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Pipes carrying water  from source to field",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Pipes carrying water  from source to field",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Term loan obtained for Technology upgradation / modernisation schemes",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Term loan obtained for Technology upgradation / modernisation schemes",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Term loan obtained for Technology upgradation / modernisation schemes",
+            "target": "Incentives",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Term loan obtained for Technology upgradation / modernisation schemes",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Livelihood activities for asset less persons - Sponsored By State Govt",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Livelihood activities for asset less persons - Sponsored By State Govt",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Livelihood activities for asset less persons - Sponsored By State Govt",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Livelihood activities for asset less persons - Sponsored By State Govt",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+            "target": "Incentives",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Skill Development Training Schemes and Skill Upgradation Training Schemes",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Micro Nutrient spray",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Micro Nutrient spray",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Micro Nutrient spray",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Micro Nutrient spray",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+            "target": "Incentives",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Term loan obtained under Credit Guarantee Fund Trust Scheme",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+            "target": "Grants",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Visit of Contract Farming  farmers to the Research  Stations in Karnataka",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Term loan obtained for ISO Certification/R&D under NSICTANSIDCO Consortium",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Integrated Pest  Management Demonstration  cum Training",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Integrated Pest  Management Demonstration  cum Training",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Integrated Pest  Management Demonstration  cum Training",
+            "target": "Grants",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Integrated Pest  Management Demonstration  cum Training",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Stamp duty exemption on mortgaged and pledged documents",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Stamp duty exemption on mortgaged and pledged documents",
+            "target": "Manufacturers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Stamp duty exemption on mortgaged and pledged documents",
+            "target": "Incentives",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Stamp duty exemption on mortgaged and pledged documents",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Distribution of Gypsum - Oil Seeds",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Distribution of Gypsum - Oil Seeds",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Distribution of Gypsum - Oil Seeds",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Distribution of Gypsum - Oil Seeds",
+            "target": "State",
+            "type": "FUNDED_BY"
+        },
+        {
+            "source": "Production of Certified  Seeds of Maize",
+            "target": "Agriculture - Farmers Welfare Department",
+            "type": "ADMINISTERED_BY"
+        },
+        {
+            "source": "Production of Certified  Seeds of Maize",
+            "target": "Farmers",
+            "type": "BENEFITS"
+        },
+        {
+            "source": "Production of Certified  Seeds of Maize",
+            "target": "Subsidy",
+            "type": "OFFERS"
+        },
+        {
+            "source": "Production of Certified  Seeds of Maize",
+            "target": "State",
+            "type": "FUNDED_BY"
+        }
+    ]
+}
